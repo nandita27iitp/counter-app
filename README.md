@@ -1,2 +1,2 @@
 # counter-app
-A easy JavaScript counter Application for beginners!
+An easy JavaScript counter Application for beginners!
